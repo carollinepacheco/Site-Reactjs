@@ -21,7 +21,10 @@
   font-size: 35px;
   font-weight: 700;
 }
-
+#jumbotron-card{
+  font-size: 20px;
+  font-weight: 500;
+}
 #cards-doacao {
   margin-top: 20px;
   padding-bottom: 20px;
