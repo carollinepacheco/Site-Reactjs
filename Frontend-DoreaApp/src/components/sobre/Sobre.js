@@ -3,8 +3,8 @@ import React from 'react'
 export default function Sobre() {
     return (
         <div>
-            <main>
-                <div id='sobre' className='main-sobre'>
+            <main id='sobre'>
+                <div className='main-sobre'>
                     <div className='h-50 d-flex align-items-center bg-img pt-5'>
                         <div className='container'>
                             <div className='row'>
