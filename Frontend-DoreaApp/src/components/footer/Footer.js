@@ -30,7 +30,7 @@ const Footer = () => {
                 </div>
                 <div className='text-center p-3' id='footer-secondy'>
                     © 2022 Copyright:
-                    <a className='text-dark' href='#'>Dorea.com</a>
+                    <a className='text-dark' href='/'>Dorea.com</a>
                 </div>
             </footer>
         </div>
