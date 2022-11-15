@@ -30,11 +30,11 @@ function Main() {
                                     <h5 className="card-title">Card title</h5>
                                     <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
                                 </div>
-                                <div className='card-footer'>
+                                <div className='card-footer d-grid'>
                                     <a href="#" className="btn btn-primary">Doar</a>
                                 </div>
                                 <div className="progress">
-                                    <div className="progress-bar" role="progressbar" style={{ width: '25%' }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+                                    <div className="progress-bar progress-bar-striped bg-success" role="progressbar" style={{ width: '25%' }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
                                 </div>
                             </div>
                         </div>
@@ -46,10 +46,10 @@ function Main() {
                                     <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
                                 </div>
                                 <div className='card-footer'>
-                                    <a href="#" className="btn btn-primary">Doar</a>
+                                    <a href="#" className="btn btn-primary d-grid">Doar</a>
                                 </div>
                                 <div className="progress">
-                                    <div className="progress-bar" role="progressbar" style={{ width: '75%' }} aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">75%</div>
+                                    <div className="progress-bar progress-bar-striped bg-success" role="progressbar" style={{ width: '75%' }} aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">75%</div>
                                 </div>
                             </div>
                         </div>
@@ -61,10 +61,10 @@ function Main() {
                                     <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
                                 </div>
                                 <div className='card-footer'>
-                                    <a href="#" className="btn btn-primary">Doar</a>
+                                    <a href="#" className="btn btn-primary d-grid">Doar</a>
                                 </div>
                                 <div className="progress">
-                                    <div className="progress-bar" role="progressbar" style={{ width: '45%' }} aria-valuenow="45" aria-valuemin="0" aria-valuemax="100">45%</div>
+                                    <div className="progress-bar progress-bar-striped bg-success" role="progressbar" style={{ width: '45%' }} aria-valuenow="45" aria-valuemin="0" aria-valuemax="100">45%</div>
                                 </div>
                             </div>
                         </div>
@@ -76,10 +76,10 @@ function Main() {
                                     <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
                                 </div>
                                 <div className='card-footer'>
-                                    <a href="#" className="btn btn-primary">Doar</a>
+                                    <a href="#" className="btn btn-primary d-grid">Doar</a>
                                 </div>
                                 <div className="progress">
-                                    <div className="progress-bar" role="progressbar" style={{ width: '50%' }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%</div>
+                                    <div className="progress-bar progress-bar-striped bg-success" role="progressbar" style={{ width: '50%' }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%</div>
                                 </div>
                             </div>
                         </div>
