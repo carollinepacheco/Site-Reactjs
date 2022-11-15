@@ -4,8 +4,12 @@
     border-radius: 0%;
 }
 
-.sobre-valores {
-    background: hsl(0, 0%, 83%);
+#sobre-valores {
+    background: hsl(0, 0%, 94%);
     padding: 80px;
+}
 
+#sobre-valores,div,p {
+    font-size: 15px;
+    font-weight: 500;
 }
