@@ -18,6 +18,7 @@ function Main() {
                 <div className='jumbotron card' id='jumbotron-card'>
                     <div className='text-white text-center py-5 px-4'>
                         <h3>NOSSOS PROJETOS</h3>
+                        <p>Venha conhecer</p>
                     </div>
                 </div>
                 <div className='container-fluid mb-3' id='cards-doacao'>
