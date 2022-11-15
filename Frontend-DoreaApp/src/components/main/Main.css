@@ -1,4 +1,6 @@
-*,body,html{
+*,
+body,
+html {
   padding: 0;
   margin: 0;
 }
@@ -9,25 +11,34 @@
   padding: 80px 50px;
   border-radius: 0%;
   position: relative;
+  border: 0;
+}
+#btnLeiaMais,
+a {
+  -webkit-border-radius: 50px;
+  -moz-border-raio: 50px;
+  -o-border-radius: 50px;
+  -ms-border-radius: 50px;
+  border-radius: 50px;
 }
 
-#jumbotron-card {
-  background-color: hsl(0, 0%, 0%);
-  border-radius: 0%;
-  padding: 50px;
- }
 
-#jumbotron-card,h3{
+#jumbotron-card {
+  background-color: rgb(0, 0, 0);
+  border-radius: 0%;
+  border: 0;
+}
+
+#jumbotron-card,
+h3 {
   font-size: 35px;
   font-weight: 700;
 }
-#jumbotron-card{
+#jumbotron-card {
   font-size: 20px;
   font-weight: 500;
 }
 #cards-doacao {
-  margin-top: 20px;
-  padding-bottom: 20px;
-  background-color: hsl(165, 9%, 74%);
-
+  padding: 20px;
+  background-color: rgba(243, 243, 243, 0.726);
 }
