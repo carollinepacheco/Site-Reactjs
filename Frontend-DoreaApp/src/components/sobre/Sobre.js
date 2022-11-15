@@ -45,7 +45,6 @@ export default function Sobre() {
             </ul>
           </section>
         </article>
-
       </main>
     </div>
   )
